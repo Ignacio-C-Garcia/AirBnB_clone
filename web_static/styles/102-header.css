@@ -1,0 +1,19 @@
+header
+{
+    min-height:80px;
+    background-color: white;
+    height: 80px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    display: flex;
+    align-items: center;
+}
+.logo
+{
+    position: absolute ;
+    left: 20px;
+    width: 142px;
+    height: 60;
+    background-image: url(../images/logo.png);
+    background-size: cover;
+}
